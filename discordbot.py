@@ -5,26 +5,24 @@ import copy
 from datetime import datetime, timedelta, timezone
 
 Hololive = {
-    "UCuvk5PilcvDECU7dDZhQiEw": [
-        "白雪 巴",
-        "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw"
+    "UCp6993wxpyDPHUpavwDFqgg": [
+        "ときのそら",
+        "https://yt3.ggpht.com/a/AATXAJzGvZJuJ92qM5WcfBcDZqPFSj_CGIEYp9VFmA=s288-c-k-c0xffffffff-no-rj-mo"
     ],
     ...
-    "UC8C1LLhBhf_E2IBPLSDJXlQ": [
-        "健屋 花那",
-        "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ"
+    "UC1uv2Oq6kNxgATlCiez59hw": [
+        "常闇トワ",
+        "https://yt3.ggpht.com/a/AATXAJxqyp7DhLSSrSYRc5HaLcq5QvJvRp3jDnxTeA=s288-c-k-c0xffffffff-no-rj-mo"
     ],
-    ...
-    "UCdyqAaZDKHXg4Ahi7VENThQ": [
-        "白銀 ノエル",
-        "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ"
+    "UCa9Y57gfeY0Zro_noHRVrnw": [
+        "姫森ルーナ",
+        "https://yt3.ggpht.com/a/AATXAJzzirDjRJkofWVeoE6gVjodJ0VXaJhy4b_CLg=s288-c-k-c0xffffffff-no-rj-mo"
     ],
-    
 
 } #配信者のチャンネルID, 配信者名, アイコン画像のURLのリスト
 
-webhook_url_Hololive = '配信開始チャンネル用のwebhookリンク' #配信開始
-webhook_url_Hololive_yotei = '配信開始予定用のwebhookリンク' #配信予定
+webhook_url_Hololive = '配信開始チャンネル用のwebhookリンク' #ホロライブ配信開始
+webhook_url_Hololive_yotei = '配信開始予定用のwebhookリンク' #ホロライブ配信予定
 broadcast_data = {} #配信予定のデータを格納
 
 YOUTUBE_API_KEY = [複数のAPI(str型)をリストで管理]
