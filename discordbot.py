@@ -7,17 +7,17 @@ from datetime import datetime, timedelta, timezone
 Hololive = {
     "UCuvk5PilcvDECU7dDZhQiEw": [
         "白雪 巴",
-        "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw=s288-c-k-c0xffffffff-no-rj-mo"
+        "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw"
     ],
     ...
     "UC8C1LLhBhf_E2IBPLSDJXlQ": [
         "健屋 花那",
-        "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ=s288-c-k-c0xffffffff-no-rj-mo"
+        "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ"
     ],
     ...
     "UCdyqAaZDKHXg4Ahi7VENThQ": [
         "白銀 ノエル",
-        "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ=s288-c-k-c0xffffffff-no-rj-mo"
+        "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ"
     ],
     
 
