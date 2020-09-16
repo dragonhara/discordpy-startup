@@ -23,8 +23,8 @@ Hololive = {
 
 } #配信者のチャンネルID, 配信者名, アイコン画像のURLのリスト
 
-webhook_url_Hololive = '配信開始チャンネル用のwebhookリンク' #ホロライブ配信開始
-webhook_url_Hololive_yotei = '配信開始予定用のwebhookリンク' #ホロライブ配信予定
+webhook_url_Hololive = '配信開始チャンネル用のwebhookリンク' #配信開始
+webhook_url_Hololive_yotei = '配信開始予定用のwebhookリンク' #配信予定
 broadcast_data = {} #配信予定のデータを格納
 
 YOUTUBE_API_KEY = [複数のAPI(str型)をリストで管理]
