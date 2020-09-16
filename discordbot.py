@@ -5,19 +5,16 @@ import copy
 from datetime import datetime, timedelta, timezone
 
 Hololive = {
-    "UCp6993wxpyDPHUpavwDFqgg": [
-        "ときのそら",
-        "https://yt3.ggpht.com/a/AATXAJzGvZJuJ92qM5WcfBcDZqPFSj_CGIEYp9VFmA=s288-c-k-c0xffffffff-no-rj-mo"
+    "UCuvk5PilcvDECU7dDZhQiEw": [
+        "白雪 巴",
+        "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw=s288-c-k-c0xffffffff-no-rj-mo"
     ],
     ...
-    "UC1uv2Oq6kNxgATlCiez59hw": [
-        "常闇トワ",
-        "https://yt3.ggpht.com/a/AATXAJxqyp7DhLSSrSYRc5HaLcq5QvJvRp3jDnxTeA=s288-c-k-c0xffffffff-no-rj-mo"
+    "UC8C1LLhBhf_E2IBPLSDJXlQ": [
+        "健屋 花那",
+        "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ=s288-c-k-c0xffffffff-no-rj-mo"
     ],
-    "UCa9Y57gfeY0Zro_noHRVrnw": [
-        "姫森ルーナ",
-        "https://yt3.ggpht.com/a/AATXAJzzirDjRJkofWVeoE6gVjodJ0VXaJhy4b_CLg=s288-c-k-c0xffffffff-no-rj-mo"
-    ],
+    
 
 } #配信者のチャンネルID, 配信者名, アイコン画像のURLのリスト
 
