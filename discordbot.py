@@ -1,21 +1,22 @@
-from discord.ext import time
+from discord.ext 
+import time
 import requests
 import json
 import copy
 from datetime import datetime, timedelta, timezone
 
 Hololive = {
-    "UCp6993wxpyDPHUpavwDFqgg": [
-        "ときのそら",
-        "https://yt3.ggpht.com/a/AATXAJzGvZJuJ92qM5WcfBcDZqPFSj_CGIEYp9VFmA=s288-c-k-c0xffffffff-no-rj-mo"
+    "UCuvk5PilcvDECU7dDZhQiEw": [
+        "白雪巴",
+        "https://yt3.ggpht.com/a/AATXAJzwjLgoV80jGqYgd2Q1njMLouEjMZq1YPls99cI=s100-c-k-c0xffffffff-no-rj-mo"
     ],
     ...
-    "UC1uv2Oq6kNxgATlCiez59hw": [
-        "常闇トワ",
-        "https://yt3.ggpht.com/a/AATXAJxqyp7DhLSSrSYRc5HaLcq5QvJvRp3jDnxTeA=s288-c-k-c0xffffffff-no-rj-mo"
+    "UC8C1LLhBhf_E2IBPLSDJXlQ": [
+        "健屋花那",
+        "https://yt3.ggpht.com/a/AATXAJwxicrY-paa0tPvZeIv87FZIe5vyoiCE65jI5hVSg=s100-c-k-c0xffffffff-no-rj-mo"
     ],
-    "UCa9Y57gfeY0Zro_noHRVrnw": [
-        "姫森ルーナ",
+    "UCdyqAaZDKHXg4Ahi7VENThQ": [
+        "白銀ノエル",
         "https://yt3.ggpht.com/a/AATXAJzzirDjRJkofWVeoE6gVjodJ0VXaJhy4b_CLg=s288-c-k-c0xffffffff-no-rj-mo"
     ],
 
